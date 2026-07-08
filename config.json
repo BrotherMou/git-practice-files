@@ -1,5 +1,6 @@
 {
   "appName": "git-practice",
-  "version": "1.0.0",
-  "env": "demo"
+  "version": "1.1.0",
+  "env": "demo",
+  "updatedFrom": "local"
 }
